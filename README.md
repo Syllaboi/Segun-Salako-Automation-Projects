@@ -1,2 +1,5 @@
 # Data-Analysis-Project-Documentation
-My projects as a Data Analyst
+
+This is where I started my Portfolio building while taking my Data Analysis class.
+
+i have learnt a lot of things ranging from excell to SQL den this
