@@ -88,6 +88,7 @@ I led the design and implementation of the content creation workflow, from requi
 - Defined goals: centralize content planning, automate reminders, and improve publishing consistency across Twitter, Instagram, blog, and email.
 
 
+ 
 
  2. <h3>System Design:</h3>
 
@@ -125,6 +126,7 @@ I led the design and implementation of the content creation workflow, from requi
 
 
 
+
  3. <h3>Database Setup:</h3>
 
 
@@ -140,6 +142,7 @@ I led the design and implementation of the content creation workflow, from requi
 
 
 - Tested table relationships to ensure data integrity (e.g., Drafts correctly linked to Content Ideas).
+
 
 
 
@@ -175,6 +178,7 @@ I led the design and implementation of the content creation workflow, from requi
 
 
 
+
  5. <h3>Custom Views:</h3>
 
 
@@ -203,6 +207,7 @@ I led the design and implementation of the content creation workflow, from requi
 
 
 
+
  6. <h3>Testing and Troubleshooting:</h3>
 
 
@@ -221,6 +226,7 @@ I led the design and implementation of the content creation workflow, from requi
 
 
 
+
  7. <h3>Deployment and Training:</h3>
 
 
@@ -236,6 +242,7 @@ I led the design and implementation of the content creation workflow, from requi
 
 
 - Set up a feedback channel in Slack for ongoing support.
+
 
 
 
@@ -281,6 +288,7 @@ I led the design and implementation of the content creation workflow, from requi
 
 
 - **Reporting**: Canva (social media visuals), Google Docs (client report).
+
 
 
 
