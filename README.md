@@ -3,7 +3,7 @@
 <h2>👨‍💻 Workflow Automation Projects:</h2>
 
 - <b>Airtable Social Media Content Calender</b>
-  - [Content Repository](https://github.com/joshmadakor1/Algorithms-Practice)  <a href="https://youtu.be/d2jhX3dzgYk">Content Walkthrough</a>
+  - [Content Repository]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation))  <a href="https://youtu.be/d2jhX3dzgYk">Content Walkthrough</a>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
