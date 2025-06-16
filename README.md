@@ -1,9 +1,15 @@
-<h1>Hi, I'm Segun! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/segunexploresdata/">Workflow Automation Professional</a>
+<h1>Hi, I'm Segun! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>,     <a href="https://www.linkedin.com/in/segunexploresdata/">Workflow Automation Professional</a>
 
-<h2>👨‍💻 Workflow Automation Projects:</h2>
+<h2>👨‍💻PROJECTS:</h2>
 
 - <b>Airtable Social Media Content Calender</b>
-  - [Content Repository](https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation)  <a href="https://youtu.be/d2jhX3dzgYk">Content Walkthrough</a>
+- [Content Repository](https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation)  <a href="https://youtu.be/d2jhX3dzgYk">Content Walkthrough</a>
+  
+![content idea](https://github.com/user-attachments/assets/19438d4a-3e8a-4e63-8b83-cf1c5fe20770)<a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation">Content Idea</a>
+
+
+
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
