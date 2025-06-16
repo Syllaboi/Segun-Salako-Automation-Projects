@@ -1,10 +1,4 @@
-<h1>Hi, I'm Segun! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>,     <a href="https://www.linkedin.com/in/segunexploresdata/">Workflow Automation Professional</a>
-
-<h2>👨‍💻PROJECTS:</h2>
-
-
-
-
+<h1>Hi, I'm Segun! <br/><a href="https://github.com/joshmadakor1"
 <div>
   <h1>Hi, I'm Segun!</h1>
   <h2>Data Analyst, Workflow Automation Professional</h2>
