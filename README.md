@@ -323,7 +323,7 @@ I led the design and implementation of the content creation workflow, from requi
 
 
 
-  <h3>Lessons Learned</h3>
+<h3>Lessons Learned</h3>
 
 
 
@@ -387,7 +387,7 @@ I led the design and implementation of the content creation workflow, from requi
 
 
 
-    <h3>Impact</h3>
+ <h3>Impact</h3>
 
 
 
@@ -422,7 +422,7 @@ I led the design and implementation of the content creation workflow, from requi
 
 
 
-  <h3>Future Enhancements</h3>
+<h3>Future Enhancements</h3>
 
 
 
