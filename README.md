@@ -18,15 +18,19 @@
     <li><a href="#">Content Creation Workflow Automation</a></li>
     <li><a href="#">AI Education Platform Infrastructure</a></li>
   </ul>
-  <img src="path/to/your/image.png" alt="Project Screenshot" style="max-width: 100%;">
-
+       <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/blob/Job-Alert-with-Scripting/README.md">Automating job Alert with Scripting
+    </a></li>
+    </ul>
+  
   <h3>Skills</h3>
   <ul>
     <li>Airtable</li>
     <li>Sql</li>
     <li>Zapier</li>
+    <li>N8n</li>
     <li>Google Sheets</li>
     <li>Notion</li>
+    <li>Scripting</li>
   </ul>
 
   <h3>Contact</h3>
