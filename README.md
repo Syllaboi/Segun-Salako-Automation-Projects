@@ -10,7 +10,7 @@
     <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation">Airtable Social Media Content Calendar</a></li>
    
   
-![content idea](https://github.com/user-attachments/assets/19438d4a-3e8a-4e63-8b83-cf1c5fe20770)<a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation">Content Idea</a>
+![content idea](https://github.com/user-attachments/assets/19438d4a-3e8a-4e63-8b83-cf1c5fe20770)
     
   <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Sales-data-Dashboard">SalesData Dashboard</a></li>
     <li><a href="#">Content Creation Workflow Automation</a></li>
