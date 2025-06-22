@@ -7,13 +7,12 @@
   <h2>PROFESSIONAL</h2>
   <h3>PROJECTS:</h3>
   <ul>
-    <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation">Airtable Social Media Content Calendar</a></li>
+    <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation">Airtable Social Media Content Creation Workflow automation</a></li>
    
   
 ![content idea](https://github.com/user-attachments/assets/19438d4a-3e8a-4e63-8b83-cf1c5fe20770)
     
   <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Sales-data-Dashboard">SalesData Dashboard</a></li>
-    <li><a href="#">Content Creation Workflow Automation</a></li>
     <li><a href="#">AI Education Platform Infrastructure</a></li>
   </ul>
        <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/blob/Job-Alert-with-Scripting/README.md">Automating job Alert with Scripting
