@@ -3,6 +3,8 @@
   <h2>Project Overview</h2>
   <p>I designed a <strong>Notion-based infrastructure</strong> for an AI education platform focused on AI ethics, prompt engineering, and generative AI applications. Integrated with Google Forms and Sheets, it streamlined student enrollment, content management, sponsor outreach, and workshop delivery. The system reduced administrative tasks by <strong>50%</strong> and achieved a <strong>90% satisfaction rate</strong> from a pilot cohort of 20 students.</p>
 
+<li><a href="https://chip-corleggy-638.notion.site/AI-Education-Platform-Hub-208a24a057d480d3ba40c9129ef458bb">Project Main Page</a></li>
+
   <h2>Key Metrics</h2>
   <table>
     <tr>
