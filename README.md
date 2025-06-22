@@ -9,17 +9,25 @@
   <ul>
     <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation">Airtable Social Media Content Creation Workflow automation</a></li>
    
-  
-![content idea](https://github.com/user-attachments/assets/19438d4a-3e8a-4e63-8b83-cf1c5fe20770)
+  ![sales data interface](https://github.com/user-attachments/assets/fca94716-5cda-4f7d-84cd-f643a7fdad4e)
+
+
     
-  <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Sales-data-Dashboard">SalesData Dashboard</a></li>
-    <li><a href="#">AI Education Platform Infrastructure</a></li>
-    <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Job-Alert-with-Scripting">Automatatic Job Alert With Scripting</a></li>
-  </ul>
-       <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/blob/Job-Alert-with-Scripting/README.md">Automating job Alert with Scripting
-    </a></li>
-    </ul>
+  <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Sales-data-Dashboard">SalesData Dashboard</a></li> 
   
+  ![content idea](https://github.com/user-attachments/assets/19438d4a-3e8a-4e63-8b83-cf1c5fe20770)
+
+  <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/edit/Ai-Education-Platform-Automation-Template/README.md">AI Education Platform Infrastructure</a></li>
+  
+  ![Notion flow](https://github.com/user-attachments/assets/9b03c1ad-7684-4432-877c-098f69c16019)
+
+  <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Job-Alert-with-Scripting">Automated Job Alert With Scripting</a></li>
+  </ul>
+    </ul>
+          
+  ![Telegram alert](https://github.com/user-attachments/assets/e3b469dc-a915-4960-988b-8da2ecba3f01)
+  
+
   <h3>Skills</h3>
   <ul>
     <li>Airtable</li>
