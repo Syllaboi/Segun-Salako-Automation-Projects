@@ -3,6 +3,8 @@
   <h2>Project Overview</h2>
   <p>As part of a Skill-Up Afrika class, I developed a <strong>SalesData Dashboard</strong> for an Upwork client to track electronics sales across regions. The dashboard utilized public domain data and form submissions to deliver actionable insights, achieving total sales of <strong>$728,787.86</strong>. The project streamlined sales tracking, automated workflows, and enhanced decision-making through data visualization and notifications.</p>
 
+<a href="https://youtu.be/lvZoRRuGDqo">Video Walkthrough</a>
+
   <h2>Key Metrics</h2>
   <table>
     <tr>
@@ -39,6 +41,9 @@
     </tr>
   </table>
 
+  ![Metric](https://github.com/user-attachments/assets/cb4871c7-ec9e-4a46-87c1-bca6ea29ead8)
+
+
   <h2>My Contributions</h2>
   <p>I led the end-to-end development of the SalesData Dashboard, including:</p>
   <ul>
@@ -50,6 +55,9 @@
     <li><strong>Portfolio Enhancement</strong>: Developed a compelling Upwork portfolio entry to showcase results.</li>
   </ul>
 
+  ![Automations](https://github.com/user-attachments/assets/7b133a0a-ac81-44db-a853-c1903d1da87f)
+
+
   <h2>Steps and Process</h2>
   <ol>
     <li><strong>Requirement Gathering</strong>: Collaborated with the client to define needs (e.g., track sales by region, product, salesperson).</li>
@@ -60,6 +68,9 @@
     <li><strong>Reporting</strong>: Delivered a detailed report and a social media summary: <em>"Tracked $728K in sales! Top regions: West ($725K), East ($679K). #DataAnalytics"</em>.</li>
     <li><strong>Portfolio Development</strong>: Crafted a results-driven portfolio entry with visuals.</li>
   </ol>
+
+![Auto 2](https://github.com/user-attachments/assets/34ef493d-fc12-44df-8c3c-aa0146acee72)
+
 
   <h2>Tools and Technologies</h2>
   <ul>
@@ -97,6 +108,9 @@
     <li><strong>Challenge</strong>: Slack notification setup required API knowledge.<br>
         <strong>Resolution</strong>: Used Zapier’s pre-built integration for reliability.</li>
   </ul>
+  
+  ![Automate Email](https://github.com/user-attachments/assets/10fcb688-da5b-48c8-9079-aa407fe82f8c)
+
 
   <h2>Impact</h2>
   <ul>
