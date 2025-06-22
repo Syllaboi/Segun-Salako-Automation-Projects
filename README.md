@@ -2,7 +2,9 @@
   <h1>Content Creation Workflow Automation Project</h1>
   <h2>Project Overview</h2>
   <p>I developed a smart <strong>Airtable-based content calendar</strong> for a small digital marketing team to streamline content management across Twitter, Instagram, blog, and email campaigns. The system centralized planning, task assignment, and publishing, reducing content creation time by <strong>60%</strong> and increasing on-time publishing to <strong>85%</strong>. It enhanced team collaboration and provided clear visibility into content pipelines.</p>
-
+  
+  <a href="https://www.youtube.com/watch?v=d2jhX3dzgYk&feature=youtu.be">Walkthrough Video</h>
+    
   <h2>Key Metrics</h2>
   <table>
     <tr>
@@ -35,6 +37,8 @@
     </tr>
   </table>
 
+![Task details](https://github.com/user-attachments/assets/6be269c8-fd3f-4119-9418-7ea960a42091)
+
   <h2>My Contributions</h2>
   <p>I led the design and implementation of the content workflow, including:</p>
   <ul>
@@ -42,11 +46,15 @@
     <li><strong>Database Configuration</strong>: Set up linked tables and fields (e.g., "Linked Draft") for seamless data flow.</li>
     <li><strong>Automation Setup</strong>: Configured email/Slack reminders for tasks, approvals, and publishing.</li>
     <li><strong>Tagging System</strong>: Implemented tags for platforms and content types (e.g., Promotional, Educational).</li>
+
+  <ul>
     <li><strong>Custom Views</strong>: Built role-specific views for writers, editors, and schedulers.</li>
     <li><strong>Troubleshooting</strong>: Resolved linking issues between Content Ideas and Drafts tables.</li>
     <li><strong>Documentation</strong>: Provided a user guide for team adoption.</li>
     <li><strong>Portfolio Enhancement</strong>: Crafted an Upwork portfolio entry showcasing results.</li>
   </ul>
+
+  ![task view](https://github.com/user-attachments/assets/9d6cb0a2-5172-4ab1-9782-a3b32b6ccfc3)
 
   <h2>Steps and Process</h2>
   <ol>
@@ -57,8 +65,13 @@
     <li><strong>Custom Views</strong>: Created grid, Kanban, and calendar views for role-specific tasks.</li>
     <li><strong>Testing and Troubleshooting</strong>: Fixed "Linked Draft" field issues and validated workflows.</li>
     <li><strong>Deployment and Training</strong>: Delivered a user guide and conducted a Zoom training session.</li>
-    <li><strong>Reporting and Portfolio</strong>: Generated a report and social media post: <em>"Cut content planning by 60%, boosted on-time posts to 85%! #ContentMarketing"</em>.</li>
+    <li><strong>Reporting and Portfolio</strong>: Generated a report and social media post: <em>"Cut content planning by 60%, boosted on-time posts to 85%! #ContentMarketing" </em>.</li>
   </ol>
+
+
+
+![draft](https://github.com/user-attachments/assets/5baff1c8-6559-4fb2-8463-29e3927779c6)
+
 
   <h2>Tools and Technologies</h2>
   <ul>
@@ -79,6 +92,9 @@
     <li><strong>User-Friendly Interface</strong>: Ensured accessibility for non-technical users.</li>
   </ul>
 
+![automations](https://github.com/user-attachments/assets/3be74e1e-2e6c-4f2c-b756-d34392df4b77)
+
+
   <h2>Lessons Learned</h2>
   <ul>
     <li><strong>User-Centric Design</strong>: Early feedback shaped role-specific views.</li>
@@ -88,6 +104,10 @@
     <li><strong>Portfolio</strong>: Measurable outcomes enhanced recruiter appeal.</li>
   </ul>
 
+
+![Form ](https://github.com/user-attachments/assets/ac36e1eb-8105-4f3f-b156-acd300282228)
+
+  
   <h2>Challenges and Resolutions</h2>
   <ul>
     <li><strong>Challenge</strong>: "Linked Draft" field failed to connect tables.<br>
