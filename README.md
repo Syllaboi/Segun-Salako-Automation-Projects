@@ -7,7 +7,7 @@
   <h2>PROFESSIONAL</h2>
   <h3>PROJECTS:</h3>
   <ul>
-    <li><a href="#">Airtable Social Media Content Calendar</a></li>
+    <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation">Airtable Social Media Content Calendar</a></li>
     <b>Airtable Social Media Content Calender</b>
     
 - [Content Repository](https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation)  <a href="https://youtu.be/d2jhX3dzgYk">Content Walkthrough</a>
