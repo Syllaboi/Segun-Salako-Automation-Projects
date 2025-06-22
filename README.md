@@ -14,6 +14,7 @@
     
   <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Sales-data-Dashboard">SalesData Dashboard</a></li>
     <li><a href="#">AI Education Platform Infrastructure</a></li>
+    <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Job-Alert-with-Scripting">Automatatic Job Alert With Scripting</a></li>
   </ul>
        <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/blob/Job-Alert-with-Scripting/README.md">Automating job Alert with Scripting
     </a></li>
