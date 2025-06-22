@@ -8,13 +8,11 @@
   <h3>PROJECTS:</h3>
   <ul>
     <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation">Airtable Social Media Content Calendar</a></li>
-    <b>Airtable Social Media Content Calender</b>
-    
-- [Content Repository](https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation)  <a href="https://youtu.be/d2jhX3dzgYk">Content Walkthrough</a>
+   
   
 ![content idea](https://github.com/user-attachments/assets/19438d4a-3e8a-4e63-8b83-cf1c5fe20770)<a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Social-Media-Content-Automation">Content Idea</a>
     
-  <li><a href="#">SalesData Dashboard</a></li>
+  <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Sales-data-Dashboard">SalesData Dashboard</a></li>
     <li><a href="#">Content Creation Workflow Automation</a></li>
     <li><a href="#">AI Education Platform Infrastructure</a></li>
   </ul>
