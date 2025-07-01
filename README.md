@@ -5,6 +5,8 @@
 
 <li><a href="https://chip-corleggy-638.notion.site/AI-Education-Platform-Hub-208a24a057d480d3ba40c9129ef458bb">Project Main Page</a></li>
 
+![Ai Education](https://github.com/user-attachments/assets/0fd041cd-fe5f-4366-b0a5-05bb5b596619)
+
   <h2>Key Metrics</h2>
   <table>
     <tr>
@@ -35,8 +37,14 @@
       <td>Scalability</td>
       <td>Supported up to 100 students</td>
     </tr>
-  </table>
+    
+</table>
 
+![Notion flow](https://github.com/user-attachments/assets/44652aec-36e0-45be-99e4-c862bcf66701)
+
+  ![notion floww](https://github.com/user-attachments/assets/0a26e24a-6a14-4d18-8608-0c353bce16bc)
+
+ 
   <h2>My Contributions</h2>
   <p>I led the development of the platform infrastructure, including:</p>
   <ul>
