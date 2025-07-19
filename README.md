@@ -22,10 +22,15 @@
   ![Notion flow](https://github.com/user-attachments/assets/9b03c1ad-7684-4432-877c-098f69c16019)
 
   <li><a href="https://github.com/Syllaboi/Data-Analysis-Project-Documentation/tree/Job-Alert-with-Scripting">Automated Job Alert With Scripting</a></li>
+
+  <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Self-host-N8n-on-your-Android-smartphone-(100%25-legit)">Self-host N8n on Android smartphone</a></li>
+  
   </ul>
     </ul>
           
   ![Telegram alert](https://github.com/user-attachments/assets/e3b469dc-a915-4960-988b-8da2ecba3f01)
+
+
   
 
   <h3>Skills</h3>
@@ -50,7 +55,7 @@
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Self-host-N8n-on-your-Android-smartphone-(100%25-legit)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
