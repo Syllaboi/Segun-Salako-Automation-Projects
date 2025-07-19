@@ -34,6 +34,7 @@
     <li>Sql</li>
     <li>Zapier</li>
     <li>N8n</li>
+    <li>Make.com</li>
     <li>Google Sheets</li>
     <li>Notion</li>
     <li>Scripting</li>
