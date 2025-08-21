@@ -3,7 +3,7 @@
   <h2>Data Analyst, Workflow Automation Professional</h2>
 
   <h3>About Me</h3>
-  <p>I’m passionate about transforming data into actionable insights and streamlining workflows with automation. With hands-on experience in building efficient systems, I specialize in tools like Airtable, Python, and Zapier to solve real-world challenges.</p>
+  <p>I’m passionate about revolutionizing workflow automation and turning data into actionable insights. With hands-on experience in crafting efficient systems, I specialize in leveraging tools like Airtable, n8n, make.com, Zapier, SQL, to streamline processes and tackle real-world challenges.</p>
 
   <h2>PROFESSIONAL</h2>
   <h3>PROJECTS:</h3>
