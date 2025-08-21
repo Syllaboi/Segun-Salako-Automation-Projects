@@ -15,7 +15,17 @@
     <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Ai-Education-Platform-Automation-Template">AI Education Platform Infrastructure</a></li>
      <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/cursor/build-smith-voice-agent-interface-4d6f">Smith - Ai Voice Agent Interface with Cursor</a></li>
     <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/blob/Email-Attachment-Extractor/README.md">Automatic Email Extractor with Make.com</a></li>
+
+  ![5852733358981893388](https://github.com/user-attachments/assets/94739f1b-fd79-4aba-8c43-0a19015a4f77)
+
+    
+  <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Automated-PDF-Analyzer-and-Summarization">Automate PDF Analysis and Summarization with Make.com</a></li>
+
+  ![5852733358981893402](https://github.com/user-attachments/assets/48f11dc5-d1ac-4d86-ac4e-bc932787b09f)
+
+    
   </ul>
+
   <img src="path/to/your/image.png" alt="Project Screenshot" style="max-width: 100%;">
 
   <h3>Skills</h3>
