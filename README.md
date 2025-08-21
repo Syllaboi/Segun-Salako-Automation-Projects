@@ -22,9 +22,12 @@
   <ul>
     <li>Airtable</li>
     <li>n8n</li>
+    <li>make.com</li>
     <li>Zapier</li>
     <li>Google Sheets</li>
     <li>Notion</li>
+    <li>Google Cloud</li>
+    <li>API & Webhook Integration</li>
   </ul>
 
   <h3>Contact</h3>
