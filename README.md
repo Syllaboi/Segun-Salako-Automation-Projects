@@ -15,6 +15,8 @@ The automation begins with a **Chatbot** node that receives user queries via a w
 ## Importance & Who Needs It
 Agent Smith is a game-changer for busy professionals, entrepreneurs, and teams needing to automate repetitive tasks. It saves time on email management, research, and content creation, allowing focus on strategic goals. Small business owners can use it to generate leads, while marketers benefit from tailored follow-ups. Even individuals managing personal schedules will find its calendar and contact features invaluable. Its versatility makes it essential for anyone seeking efficiency in a digital-first world.
 
+**Benefit**: The capacity of this Ai can be upgraded by adding more complex tool as wish.
+
 
 ![5854997859013871945](https://github.com/user-attachments/assets/d8f15392-52c5-49fb-bf9a-784a2dd7340e)
 
@@ -22,8 +24,9 @@ Agent Smith is a game-changer for busy professionals, entrepreneurs, and teams n
 
 ## Tools Involved
 - **n8n**: The backbone for workflow automation and project compilation.
-- **lovable.dev**: Provides the lovable interface via webhooks and APIs.
+- **lovable.dev**: Provides the lovable interface for app development via webhooks and APIs.
 - **Gemini**: Powers AI-driven insights and responses.
+- **Openrouter**: Ai models for in-depth response.
 - **Simple Memory**: Stores context for better task handling.
 - **CEO Research & Scrapping**: Gathers web data and research.
 - **Conversational AI**: Enhances natural interaction.
