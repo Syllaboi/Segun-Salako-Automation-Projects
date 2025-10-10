@@ -9,6 +9,9 @@ The goal was to create a **secure, always-on, and scalable automation environmen
 
 ---
 
+<img width="1804" height="943" alt="clod" src="https://github.com/user-attachments/assets/4f6047bb-f847-4200-b55c-ec49c5505f2e" />
+
+
 ## 🧩 Tech Stack
 
 | Component | Purpose |
@@ -151,6 +154,9 @@ docker restart caddy
 
 ✅ n8n now accessible at:
 **[https://yourdomain.com](https://yourdomain.com)**
+
+<img width="807" height="436" alt="n8n add" src="https://github.com/user-attachments/assets/0fa7d95d-7c38-4ceb-8bea-373972b6e937" />
+
 
 ---
 
