@@ -27,12 +27,14 @@
 
   ![5852733358981893402](https://github.com/user-attachments/assets/48f11dc5-d1ac-4d86-ac4e-bc932787b09f)
 
-  
+  <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/%F0%9F%9A%80-Self-Hosted-n8n-Automation-Server-(Docker-%2B-PostgreSQL-%2B-Caddy)">Self-Hosted n8n Automation Server (Docker + PostgreSQL + Caddy)</a></li>
+
+  <img width="807" height="436" alt="n8n add" src="https://github.com/user-attachments/assets/ed2314d1-7ed9-4739-9d21-e3fd64c33df8" />
 
     
   </ul>
 
-  <img src="path/to/your/image.png" alt="Project Screenshot" style="max-width: 100%;">
+
 
   <h3>Skills</h3>
   <ul>
