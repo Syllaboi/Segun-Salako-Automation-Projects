@@ -11,8 +11,9 @@
     <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Social-Media-Content-Automation">Airtable Social Media Content Calendar</a></li>
     <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Job-Alert-with-Scripting">Job Alert Scripting</a></li>
     <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Agent-Smith--Prsonal/Business-Assitant">Agent Smith - Your Personal/Business Assistance</a></li>
+<img width="810" height="733" alt="lova" src="https://github.com/user-attachments/assets/0f8299bd-a617-4675-aecc-c18e1109c2c4" />
 
-  ![5854997859013871947](https://github.com/user-attachments/assets/fa678ca6-c010-4779-abe5-648131057c29)
+  
 
   <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Sales-data-Dashboard">SalesData Dashboard</a></li>
     <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Self-host-N8n-on-your-Android-smartphone-(100%25-legit)">n8n Hosted on Android</a></li>
