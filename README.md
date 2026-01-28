@@ -13,7 +13,8 @@
     <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Agent-Smith--Prsonal/Business-Assitant">Agent Smith - Your Personal/Business Assistance</a></li>
 <img width="810" height="733" alt="lova" src="https://github.com/user-attachments/assets/0f8299bd-a617-4675-aecc-c18e1109c2c4" />
 
-  
+  <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Scalable-CEO-Lead-Generation-with-n8n-%2B-Apify-%2B-Google-Sheets-%2B-Airtable">CEO Leads Generator</a></li>
+  <img width="865" height="637" alt="leads" src="https://github.com/user-attachments/assets/22905225-91d3-4be5-b0e1-156da9c8d613" />
 
   <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Sales-data-Dashboard">SalesData Dashboard</a></li>
     <li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Self-host-N8n-on-your-Android-smartphone-(100%25-legit)">n8n Hosted on Android</a></li>
