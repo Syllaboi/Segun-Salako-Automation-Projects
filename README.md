@@ -1,56 +1,67 @@
-<div>
-  <h1>Hi, I'm Segun!</h1>
-  <h2>Vibe-coder, Workflow Automation Professional</h2>
+# Light & Living: AI-Powered Semantic Search Engine
 
-  <h3>About Me</h3>
-  <p>I'm passionate about revolutionizing workflows and turning data into actionable insights through hands-on experience in crafting efficient, intuitive systems. As a Vibe-Coding specialist, I blend creative, flow-state programming with practical automation to make complex processes feel effortless and engaging. I excel in leveraging tools like Airtable, n8n, Make, and Zapier to streamline operations, scrape insights, and tackle real-world challenges—always with a vibe that prioritizes user-friendly, scalable solutions.</p>
+**Role:** Full-Stack Architect (Vibe Coder)  
+**Timeline:** 48 Hours  
+**Stack:** `React`, `TypeScript`, `Supabase`, `Google Gemini`, `n8n`
 
-  <h2>PROFESSIONAL</h2>
-  <h3>PROJECTS:</h3>
-  <ul>
-    <H2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Social-Media-Content-Automation">Airtable Social Media Content Calendar</a></li></H2>
-    <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Job-Alert-with-Scripting">Job Alert Scripting</a></li></h2>
-    <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Agent-Smith--Prsonal/Business-Assitant">Agent Smith - Your Personal/Business Assistance</a></li></h2>
+---
 
-<img width="412" height="732" alt="convo22" src="https://github.com/user-attachments/assets/434f09ac-e619-4088-b407-e1490a6cee2a" />
+### 🚀 TL;DR
+I built a **production-grade e-commerce catalog** for a premium lighting brand that transcends keyword matching.  
+Users search by *vibe* (e.g., *"moody lighting for a reading nook"*), and the system leverages **vector embeddings** to understand intent and return relevant products instantly.  
+Additionally, the sales pipeline is fully automated — generating branded PDF quotes via `n8n` webhooks in seconds.
 
-  <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Scalable-CEO-Lead-Generation-with-n8n-%2B-Apify-%2B-Google-Sheets-%2B-Airtable">CEO Leads Generator</a></li></h2>
-  <img width="865" height="637" alt="leads" src="https://github.com/user-attachments/assets/22905225-91d3-4be5-b0e1-156da9c8d613" />
-
-  <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Sales-data-Dashboard">SalesData Dashboard</a></li></h2>
-    <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Self-host-N8n-on-your-Android-smartphone-(100%25-legit)">n8n Hosted on Android</a></li></h2>
-    <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Ai-Education-Platform-Automation-Template">AI Education Platform Infrastructure</a></li></h2>
-     <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/cursor/build-smith-voice-agent-interface-4d6f">Smith - Ai Voice Agent Interface with Cursor</a></li></h2>
-    <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/blob/Email-Attachment-Extractor/README.md">Automatic Email Extractor with Make.com</a></li></h2>
-    
-  ![5852733358981893388](https://github.com/user-attachments/assets/94739f1b-fd79-4aba-8c43-0a19015a4f77)
-
-    
-  <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Automated-PDF-Analyzer-and-Summarization">Automate PDF Analysis and Summarization with Make.com</a></li></h2>
-
-  ![5852733358981893402](https://github.com/user-attachments/assets/48f11dc5-d1ac-4d86-ac4e-bc932787b09f)
-
-  <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/%F0%9F%9A%80-Self-Hosted-n8n-Automation-Server-(Docker-%2B-PostgreSQL-%2B-Caddy)">Self-Hosted n8n Automation Server (Docker + PostgreSQL + Caddy)</a></li></h2>
-
-  <img width="807" height="436" alt="n8n add" src="https://github.com/user-attachments/assets/ed2314d1-7ed9-4739-9d21-e3fd64c33df8" />
-
-    
-  </ul>
+---
+<img width="1564" height="721" alt="page2" src="https://github.com/user-attachments/assets/2b97d939-4ee2-42da-b027-01d314f85ba9" />
 
 
+### ⚡ The Challenge
+The client had a dataset of **650+ premium products** but no searchable or performant solution.
 
-  <h3>Skills</h3>
-  <ul>
-    <li>Airtable</li>
-    <li>n8n</li>
-    <li>make.com</li>
-    <li>Zapier</li>
-    <li>Google Sheets</li>
-    <li>Notion</li>
-    <li>Google Cloud</li>
-    <li>API & Webhook Integration</li>
-  </ul>
+**Problem A**  
+Traditional SQL search failed on vague, intent-driven terms like *"cozy"* or *"modern"*.
 
-  <h3>Contact</h3>
-  <p>Feel free to reach out at <a href="mailto:sgnzoe.life@gmail.com">sgnzoe.life@gmail.com</a> or connect on <a href="https://linkedin/in/segunexploresdata">LinkedIn</a>!</p>
-</div>
+**Problem B**  
+The sales team spent **~20 minutes per quote** manually compiling PDFs for clients.
+
+**Problem C**  
+They required a *"Zero-Lag"* experience to showcase **5,000+ potential SKUs** without performance degradation.
+
+---
+
+### 🛠️ The Solution (The "Vibe Coding" Approach)
+Instead of a multi-week build, I used **AI-assisted development** to deliver a scalable, production-ready system in **48 hours**.
+
+#### 1. Vector Search Engine *(The Brain)*
+- Integrated **Google Gemini Embedding API** with `Supabase` (`pgvector` extension).
+- Every product description is converted into a **768-dimensional vector**.
+- User queries are embedded in **real-time**.
+- **Result:** Search understands *context*, not just keyword matches.
+<img width="1580" height="792" alt="supa product" src="https://github.com/user-attachments/assets/96dc4e05-c38b-4a8b-91d9-33f4303b4020" />
+
+#### 2. The "Infinite" UI *(The Face)*
+Built with `React` + `Vite` + `Tailwind CSS`:
+- Implemented **virtualization (windowing)** to render massive product lists at **60 fps**.
+- Designed a **Glassmorphism** UI with **dark mode** for a premium, brand-aligned aesthetic.
+<img width="415" height="583" alt="email quote" src="https://github.com/user-attachments/assets/a8d5fa4e-fc94-4bac-9352-4c5d1f00e98b" />
+
+#### 3. Automated Sales Pipeline *(The Hands)*
+- Connected the frontend to `n8n` via a **secure webhook**.
+- **Trigger:** User clicks *"Share Quote"*.
+- **Action:**  
+  `n8n` fetches selected items → generates a **branded PDF** (with images, totals, and styling) → emails it to the client.
+- **Result:** **100 % automated** sales follow-up — no manual steps.
+<img width="1344" height="619" alt="Screenshot 2026-02-13 225408" src="https://github.com/user-attachments/assets/95f30c24-aca9-42c7-8162-f55aa25a8a7a" />
+
+---
+
+### 📊 The Results
+| Metric       | Outcome                              |
+|--------------|--------------------------------------|
+| **Speed**    | Search results in **< 100 ms**       |
+| **Scale**    | Architecture validated for **50,000+ items** |
+| **Efficiency**| Quote generation time reduced from **20 mins → 3 seconds** |
+
+---
+
+> *I don’t just write code — I orchestrate intelligent systems. This project proves that with the right AI stack, enterprise-grade software can go from concept to production in days — not months.*
