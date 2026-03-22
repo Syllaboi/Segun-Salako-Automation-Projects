@@ -10,7 +10,10 @@
   <ul>
     <H2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Social-Media-Content-Automation">Airtable Social Media Content Calendar</a></li></H2>
     <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Job-Alert-with-Scripting">Job Alert Scripting</a></li></h2>
-    <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Agent-Smith--Prsonal/Business-Assitant">Agent Smith - Your Personal/Business Assistance</a></li></h2>
+   <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/AI-Voice-Agent-with-ElevenLabs-and-Vapi">AI Voice Agent with ElevenLabs and Vapi</a></li>  <img width="1268" height="478" alt="Elite vapi" src="https://github.com/user-attachments/assets/34cadaf6-f3ff-434f-a44a-bc84d48af420" />
+
+  
+  <h2><li><a href="https://github.com/Syllaboi/Segun-Salako-Automation-Projects/tree/Agent-Smith--Prsonal/Business-Assitant">Agent Smith - Your Personal/Business Assistance</a></li></h2>
 
 <img width="412" height="732" alt="convo22" src="https://github.com/user-attachments/assets/434f09ac-e619-4088-b407-e1490a6cee2a" />
 
