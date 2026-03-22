@@ -116,4 +116,4 @@ This project showcases scalable AI automation for customer service. Feel free to
 
 ---
 
-*Built by [Your Name] | Date: March 2026 | Open-source under MIT License*
+*Built by Segun Salako | Date: Dec 2025 | Open-source under MIT License*
